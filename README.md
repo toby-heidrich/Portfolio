@@ -1,3 +1,5 @@
+<img src="/assets/pctures/toby_photo.jpg" alt="Site Logo">
+
 # Data Scientist
 Technical Skills: Python, Tableau, SQL, Excel, R
 
