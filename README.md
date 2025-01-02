@@ -17,8 +17,8 @@ The purpose of this project is to design and build a database in SQL, and then r
 
 ##### Entity-Relation Diagram
 
-![Entity-Relation Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-ER.draw.io.png)
+![Entity-Relation Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-ER.png)
 
 ##### Relational Diagram
 
-![Relational Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-RelationalDiagram.draw.io.png)
+![Relational Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-RelationalDiagram.png)
