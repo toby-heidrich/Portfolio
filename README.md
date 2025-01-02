@@ -2,7 +2,7 @@
 Technical Skills: Python, Tableau, SQL, Excel, R
 
 ### Education
-Computational and Data Sciences, B.S. (In-Progress)
+Computational and Data Sciences, B.S. (In-Progress, Senior)
 
 ### Projects
 #### Data Visualization
@@ -14,3 +14,11 @@ I chose to work with 3 different datasets containing data on global investment i
 
 #### Database Design & SQL Queries
 The purpose of this project is to design and build a database in SQL, and then run queries on that database. I did so by using the ER diagram method to map out entities and relationships and subsequently reducing the ER diagram to a relational diagram. I then constructed the database in SQL, filling it with phony data as per project requirements. Once the database was constructed, I conducted many queries on the data, including nested queries.
+
+##### Entity-Relation Diagram
+
+![Entity-Relation Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-ER.draw.io.png)
+
+##### Relational Diagram
+
+![Relational Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-RelationalDiagram.draw.io.png)
