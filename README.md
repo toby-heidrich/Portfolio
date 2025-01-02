@@ -25,3 +25,8 @@ The purpose of this project is to design and build a database in SQL, and then r
 
 ##### SQL Queries
 [Download the SQL file here](/assets/sql/CDS302-Project-Schema.sql)
+
+#### Machine Learning & CRISP-DM
+The purpose of this project was to learn and experience the CRISP-DM process for creating a machine-learning model in a team environment. While the final version of our model was not perfect, the focus of the project was not how good the model turns out, rather how well we implemented various methods of creating a machine-learning model using the CRISP-DM method. The topic of this project was to determine what features are most important when it comes to predicting stock price. We built our own dataset using Google Finance and fed it into a regression Multi-Layer Perceptron algorithm from which we could extract feature weights and permutation importance in order to determine which of our features were the most important. In the end, the validation results of the model showed a quite accurate model, but we did have issues with overfitting and multicollinearity. By downloading the below ".zip" file, you can see our dataset and test the MLP model, as well as see the grid search method we implemented to find the best combination of hyperparameters for the MLP.
+
+[Download MLP Project here](/assets/python/CDS303/Final_project.zip)
