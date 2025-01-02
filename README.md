@@ -22,3 +22,6 @@ The purpose of this project is to design and build a database in SQL, and then r
 ##### Relational Diagram
 
 ![Relational Diagram - Videogame and Review Library](/assets/img/CDS-302-Final-RelationalDiagram.png)
+
+##### SQL Queries
+[Download the SQL file here](/assets/sql/CDS302-Project-Schema.sql)
